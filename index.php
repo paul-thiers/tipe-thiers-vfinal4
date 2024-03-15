@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="index.css">
 </head>
 <body>
+  <?php echo '<p>Bonjour le monde</p>'; ?>
   <header>
     <h1>Avancement TIPE - Paul CHAMPSAUR MP2I</h1>
   </header>
